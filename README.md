@@ -26,4 +26,4 @@ Secrets Management | Phishing Simulations | Tabletop IR Drills
 CISSP | SecurityX | Security+ | CySA+ | PenTest+ | CCSK  
 
 ## Additional Notes
-I'm teaching myself/currently learning Python and how I can apply it to the security space for automation and use with tools like Tenable, Splunk, and AWS services. I'm making my way through self directed curriculum I had help crafting from ChatGPT.
+I'm teaching myself Python with a focus on applying it to security automation—building scripts and integrations for tools like Tenable, Splunk, and AWS services. I'm following a self-directed curriculum crafted with help from ChatGPT to deepen my skills in practical, hands-on security engineering.
