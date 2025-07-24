@@ -2,7 +2,7 @@
 
 **Lead Security Engineer | Fractional CISO | Cloud & GRC Expert**
 
-I'm a security engineer with 10+ years of experience securing cloud-native infrastructure, designing secure-by-default architectures, and building scalable AppSec and GRC programs. I’ve led security strategy and compliance readiness for SaaS, fintech, and healthcare clients—achieving 100% clean audit outcomes across SOC 2, ISO 27001, HIPAA, and PCI-DSS.
+I'm a security engineer with 10+ years of experience securing cloud-native infrastructure, designing secure-by-default architectures, and building scalable AppSec and GRC programs. I’ve led security strategy and compliance readiness across multiple industries achieving 100% clean audit outcomes for clients seeking compliance certification and attestation with SOC 2, ISO 27001, HIPAA, and PCI-DSS.
 
 I love translating complex security risks into actionable solutions that empower developers, satisfy auditors, and reduce real-world threats.
 
