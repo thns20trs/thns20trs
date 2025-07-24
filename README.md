@@ -10,7 +10,7 @@ Currently open to impactful roles where I can own and scale security programs in
 
 ---
 I'm teaching myself/currently learning Python and how I can apply it to the security space for automation and use with tools like Tenable, Splunk, and AWS services. I'm making my way through self directed curriculum I had help crafting from ChatGPT.
-[Download Plan Schedule (PDF)](./Plan_Schedule.pdf)
+[Download Plan Schedule (PDF)](./Plan Schedule.pdf)
 ---
 
 ## 🛠️ Core Skills & Tools
