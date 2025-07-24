@@ -1,6 +1,4 @@
-## Hi there 👋
-I'm Tom
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Tom
 
 🎯 **Lead Security Engineer | Fractional CISO | Cloud & GRC Expert**
 
